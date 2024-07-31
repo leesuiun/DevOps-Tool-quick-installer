@@ -98,11 +98,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-Developed by [H A R S H H A A](https://github.com/NotHarshhaa).
+Developed by [Tung Duy](https://github.com/Leesuiun).
 
 ## Contact
 
-![Author Image](https://imgur.com/2j6Aoyl.png)
 
 > [!Note]
 > Join our [Telegram Community](https://t.me/prodevopsguy) for discussions and updates. Follow [ProDevOpsGuy](https://github.com/NotHarshhaa) for more DevOps content.
