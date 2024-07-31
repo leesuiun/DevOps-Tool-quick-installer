@@ -4,7 +4,7 @@
 clear
 echo "############################################################################"
 echo "#                                                                          #"
-echo "#          DevOps Tool Installer/Uninstaller by ProDevOpsGuy Tech          #"
+echo "#          DevOps Tool Installer/Uninstaller by Tung Duy                   #"
 echo "#                                                                          #"
 echo "############################################################################"
 echo ""

@@ -104,7 +104,7 @@ Developed by [Tung Duy](https://github.com/Leesuiun).
 
 
 > [!Note]
-> Join our [Telegram Community](https://t.me/prodevopsguy) for discussions and updates. Follow [ProDevOpsGuy](https://github.com/NotHarshhaa) for more DevOps content.
+> [Telegram Community](https://t.me/kakabibi88) . Follow [Tung Duy](https://github.com/leesuiun) for more DevOps content.
 
 ## Hit the Star! ⭐
 
