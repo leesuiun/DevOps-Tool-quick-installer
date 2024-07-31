@@ -58,7 +58,7 @@ After running the script, follow the on-screen prompts to select the tools you w
 1. Clone the repository:
 
     ```
-    git clone https://github.com/NotHarshhaa/DevOps-Tool-Installer.git
+    git clone https://github.com/leesuiun/DevOps-Tool-quick-installer.git
     cd DevOps-Tool-Installer
     ```
 
@@ -79,7 +79,7 @@ After running the script, follow the on-screen prompts to select the tools you w
 1. Clone the repository:
 
     ```
-    git clone https://github.com/NotHarshhaa/DevOps-Tool-Installer.git
+    git clone https://github.com/leesuiun/DevOps-Tool-quick-installer.git
     cd DevOps-Tool-Installer
     ```
 
