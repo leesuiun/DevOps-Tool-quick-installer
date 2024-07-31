@@ -1,6 +1,5 @@
 # DevOps Tool Installer/Uninstaller 🚀
 
-![](https://imgur.com/my87pMG.png)
 
 **This repository provides scripts to install/Uninstall a wide range of DevOps tools on both Linux and Windows operating systems. These scripts are designed to make the installation and uninstallation process seamless and straightforward, catering to the needs of DevOps engineers and enthusiasts.**
 
